@@ -1,0 +1,1 @@
+{"./":{"url":"./","title":"介绍","keywords":"","body":"大数据风险管理和预警平台接口说明 0.接口说明 1.公共模块接口 "},"interface.html":{"url":"interface.html","title":"0.接口说明","keywords":"","body":"大数据风险预警平台-接口说明 1.说明 本文档为大数据风险预警平台相关接口设计说明文档，目的是为开发者提供接口使用指导 "},"public.html":{"url":"public.html","title":"1.公共模块接口","keywords":"","body":"消息大类大数据风险预警平台-公共模块接口设计 1.用户机构服务 添加依赖 junit junit 3.8.1 test "}}
